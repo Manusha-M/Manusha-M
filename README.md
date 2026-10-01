@@ -9,7 +9,7 @@ I enjoy building practical projects that help me understand how software, data, 
 - B.Tech in Artificial Intelligence & Data Science
 - Working with Python, SQL and Power BI
 - Interested in backend development and data analytics
-- Exploring Flask, FastAPI, SQLAlchemy and PostgreSQL
+- Exploring Flask, FastAPI, SQLAlchemy and MySQL
 - Interested in computer vision and practical AI applications
 
 ## Technical Skills
